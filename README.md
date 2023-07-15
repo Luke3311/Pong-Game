@@ -15,3 +15,16 @@ This is a classic arcade Pong game implemented in Python using Object-Oriented P
 To run the game, you'll need:
 
 Python 3.x
+
+
+## OOP Implementation
+This project is a great example of object-oriented programming in Python. The game's main components include:
+
+-Paddle class: Represents the paddles that players control.
+
+-Ball class: Represents the ball that moves around the screen.
+
+-Scoreboard class: Keeps track of each player's score and displays it on the screen.
+
+
+
